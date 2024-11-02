@@ -24,10 +24,10 @@ Mata kuliah : Bahasa pemrograman <p>
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
       
 ### Program python
-![gambar1](skrensot/ft5.png)
+![gambar1](skrensot/ft3.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](skrensot/ft6.png)
+![gambar1](skrensot/ft4.png)
 
 ## Latihan2: Laba
 ### Alur Algoritma Latihan2 :
@@ -51,10 +51,10 @@ ini hasil eksekusi program python diatas
     - Program selesai.
       
 ### Program python
-![gambar1](skrensot/ft7.png)
+![gambar1](skrensot/ft1.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](skrensot/ft8.png)
+![gambar1](skrensot/ft2.png)
 
 ## Latihan3: Mesin atm
 
@@ -85,8 +85,8 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1](skrensot/ft3.png)
+![gambar1](skrensot/ft6.png)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](skrensot/ft4.png)
+![gambar1](skrensot/ft5.png)
